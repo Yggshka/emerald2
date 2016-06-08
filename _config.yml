@@ -1,9 +1,9 @@
 # Site settings
-title: Emerald | A simple Jekyll blog
-description: "A minimal blog template, build with Jekyll."
-url: "http://www.jacoporabolini.com/emerald"
+title: Yggshka
+description: "Hearthstone analytics"
+url: "http://yggshka.github.io"
 author:
-  name: "Jacopo Rabolini"
+  name: "Yggshka"
   email: "hello@jacoporabolini.com"
   url: "http://www.jacoporabolini.com"
 
