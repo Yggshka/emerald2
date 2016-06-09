@@ -8,9 +8,9 @@ title: Йог друид 74% wr
 
 [Сслыка на hearthpwn](http://www.hearthpwn.com/decks/568187-yogg-druid)
 
-## Муллиган
+# Муллиган
 
-### Оставляем всегда
+## Оставляем всегда
 ![MireKeeper](http://media-hearth.cursecdn.com/avatars/289/307/33162.png "MireKeeper")
 ![WildGrowth](http://media-hearth.cursecdn.com/avatars/147/402/282.png "WildGrowth")
 ![Innervate](http://media-hearth.cursecdn.com/avatars/148/97/548.png "Innervate")
@@ -18,7 +18,7 @@ title: Йог друид 74% wr
 
 ### Очень важно! Играть Mire Keeper только для кристалла маны как минимум до 6 ходов. Только после 6 хода можно задумываться о том, чтобы сделать 2/2 слайма, в 90% случаев разгон даёт намного больше для друида, тем более в нашей колоде, где много больших карт. 
 
-### Оставляем по ситуации
+## Оставляем по ситуации
 ![RavenIdol](http://media-hearth.cursecdn.com/avatars/272/424/27230.png "RavenIdol")
 Эта карта- именно то, что делает йог друида сложной и интересной колодой. 
 Есть 4 возможности её применения:
