@@ -31,6 +31,8 @@ title: Йог друид 74% wr
 3. В комбинации с фендралом (инсейн вэлью). 
 4. В существо, когда вся рука состоит из спеллов.
  
+======
+
 ## Living Roots
 
 ![LivingRoots](http://media-hearth.cursecdn.com/avatars/252/568/22329.png "LivingRoots")
