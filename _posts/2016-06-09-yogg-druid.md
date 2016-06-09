@@ -26,6 +26,8 @@ title: Йог друидом в легенду
 
 ## Оставляем по ситуации
 
+---
+
 ## Raven Idol
 
 ![RavenIdol](http://media-hearth.cursecdn.com/avatars/272/424/27230.png "RavenIdol")
@@ -70,6 +72,8 @@ title: Йог друидом в легенду
 
 # Сильные комбинации
 
+---
+
 ## Azure Drake + спеллы
 
 ![AzureDrake](http://media-hearth.cursecdn.com/avatars/148/172/280.png "AzureDrake")
@@ -95,6 +99,8 @@ title: Йог друидом в легенду
 ---
 
 # Советы
+
+---
 
 ## Wild Growts
 
@@ -128,6 +134,8 @@ title: Йог друидом в легенду
 
 # Дека работает! 
 
+---
+
 ![Stats](img/ss+(2016-06-09+at+02.55.28).png "Stats")
 ![Legend](img/ss+(2016-06-08+at+07.18.19).jpg "Legend")
 
@@ -135,9 +143,13 @@ title: Йог друидом в легенду
 
 # Скриншоты
 
+---
+
 ![scr1](img/ss+(2016-06-08+at+03.09.00).jpg "scr1")
-![scr2](ss+(2016-06-08+at+02.56.32).jpg "scr2")
+![scr2](img/ss+(2016-06-08+at+02.56.32).jpg "scr2")
 
 ---
 
 ## Удачи в ладдере!
+
+### Критику и предложения принимаю в скайп: **yggshka** или в личку на [продоте](http://prodota.ru/forum/index.php?showuser=76579)
