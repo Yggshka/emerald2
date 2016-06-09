@@ -3,17 +3,16 @@ title: Йог друид 74% wr
 ---
 Довольно неожиданно йог друид показывает неплохие результаты в ладдере, поэтому я решил поделиться с вами декой и особенностями игры на ней.
 
-# Дечка
 ![YoggDruid](img/ss+(2016-06-09+at+12.35.37).jpg "YoggDruid")
 
 [Сслыка на hearthpwn](http://www.hearthpwn.com/decks/568187-yogg-druid)
 
 # Муллиган
 
+Правильный муллиган для йог друида очень важен, без необходимых начальных карт друид быстро отстанет по темпу и из-за отсутствия механизма комбека (до 10 хода), проигрывает игры. 
+
 ## Оставляем всегда
-![MireKeeper](http://media-hearth.cursecdn.com/avatars/289/307/33162.png "MireKeeper")
-![WildGrowth](http://media-hearth.cursecdn.com/avatars/147/402/282.png "WildGrowth")
-![Innervate](http://media-hearth.cursecdn.com/avatars/148/97/548.png "Innervate")
+![MireKeeper](http://media-hearth.cursecdn.com/avatars/289/307/33162.png "MireKeeper") ![WildGrowth](http://media-hearth.cursecdn.com/avatars/147/402/282.png "WildGrowth") ![Innervate](http://media-hearth.cursecdn.com/avatars/148/97/548.png "Innervate")
 Эти карты являются основой деки, они разгоняют друида по кристаллам и дают преимущество на начальном этапе игры. 
 
 ### Очень важно! 
