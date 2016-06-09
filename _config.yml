@@ -1,14 +1,14 @@
 # Site settings
 title: Yggshka
 description: "Hearthstone analytics"
-url: "http://yggshka.github.io"
+url: "http://yggshka4.github.io"
 author:
   name: "Yggshka"
   email: "yggshka@mail.ru"
   url: "prodota.ru"
 
 # Build settings
-baseurl: /emerald/ # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
