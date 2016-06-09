@@ -5,6 +5,6 @@ title: Обо мне
 
 ### Контакты:
 
-**[pd](http://prodota.ru/forum/index.php?showuser=76579)**
+## [pd](http://prodota.ru/forum/index.php?showuser=76579)
 
-**skype: yggshka**
+## skype: yggshka
