@@ -3,7 +3,7 @@ layout: page
 title: Обо мне
 ---
 
-## Контакты:
+### Контакты:
 
 -[vk](https://vk.com/pavpavel)
 
