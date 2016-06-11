@@ -81,10 +81,35 @@ Turna проиграл 2 игры на своём нзот паладине пр
 3. Control Warrior(Casie) > Mid Shaman(AKAWonder) 
 4. Mid Shaman(AKAWonder) > Mid Hunter(Casie)
 5. Mid Hunter(Casie) > C'thun Warlock(AKAWonder) 
-6. Reno Warlock(Casie) : C'thun Warlock(AKAWonder) 
+6. Reno Warlock(Casie) > C'thun Warlock(AKAWonder) 
+
+## Итоговый счёт: 4:2 (Casie wins)
 
 ### Комментарии
 
 1. Несмотря на отсутствие **Savannah Highmane** в мид хантере у AKAWonder, у него всё равно получилось выиграть у контроль вара.
 2. AKAWonder проиграл на мидшамане в 2 хороших матчапах против роги и вара. 
 3. AKAWonder не был в курсе, что combo и battlecry- [разные вещи](https://clips.twitch.tv/playhearthstone/CharmingGooseKreygasm)
+
+---
+
+## 3. Crane333 vs Iner
+
+### Колоды Crane333 
+
+![Crane333](img/Crane333.png)
+
+### Забанен Warrior
+
+### Колоды Iner
+
+![Iner](img/Iner.png)
+
+### Забанен Warrior
+
+## Игры:
+1. Freeze Mage(Crane333) : Aggro Shaman(Iner)
+
+### Комментарии
+
+1. 
