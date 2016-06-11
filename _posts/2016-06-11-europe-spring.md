@@ -113,7 +113,8 @@ Turna проиграл 2 игры на своём нзот паладине пр
 3. Mid Hunter(Crane333) > Freeze Mage(Iner) 
 4. Freeze Mage(Iner) > Aggro Shaman(Crane333)  
 5. Aggro Shaman(Crane333) > Miracle Rogue(Iner) 
-6. Zoo Warlock(Iner) : Zoo Warlock(Crane333)
+6. Zoo Warlock(Iner) > Zoo Warlock(Crane333)
+7. Zoo Warlock(Crane333) : Miracle Rogue(Iner)
 
 
 ### Комментарии
@@ -122,4 +123,4 @@ Turna проиграл 2 игры на своём нзот паладине пр
 2. Crane333 выбирает **Armor Up!** вместо **Lesser Heal**, ошибка или мемас? 
 ![lul](http://puu.sh/ppcHN/c870f71b46.jpg)
 3. В зеркальных матчапах фризмага и аггрошамана обе победы одержал Iner.
-4. 
+4. Миррор зоолоков пока- самая "раковая" игра на турнире, оба игрока совершали ошибки. Iner выглядит очень взволнованным.
