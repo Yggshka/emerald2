@@ -40,6 +40,7 @@ Turna проиграл 2 игры на своём нзот паладине пр
 2. Freeze Mage(Georgec) > N'zoth Paladin(Loyan)
 3. Reno Warlock(Loyan) > Murloc Paladin(Georgec)
 4. Mid Shaman(Georgec) > N'zoth Paladin(Loyan)
+5. N'zoth Paladin(Loyan) : Murloc Paladin(Georgec)
 
 ### Комментарий
 
