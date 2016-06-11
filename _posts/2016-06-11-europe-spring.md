@@ -30,9 +30,13 @@ Turna проиграл 2 игры на своём нзот паладине пр
 
 ![georgec](img/Georgec.png)
 
+### Забанен Warlock
+
 ### Колоды Loyan
 
 ![loyan](img/loyan.png)
+
+### Забанен Warrior
 
 ## Игры:
 
