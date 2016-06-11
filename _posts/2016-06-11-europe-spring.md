@@ -6,7 +6,7 @@ title: Europe Spring Championship
 
 ## Матчи:
 
-### 1.<a href="#1">Turna vs ThijsHS</a>
+### 1.<a href="#1">Turna vs ThijsNL</a>
 
 ### 2.<a href="#2">Loyan vs Georgec</a>
 
@@ -16,15 +16,28 @@ title: Europe Spring Championship
 
 ---
 
-## 1. <a name="1">Turna vs ThijsHS</a>
+## 1. <a name="1">Turna vs ThijsNL</a>
 
-### Колоды ThijHS
+### Колоды ThijsNL
 
 ![thijs](img/thijs.png)
+
+### Забанен Warlock
 
 ### Колоды Turna
 
 ![turna](img/Turn.png)
+
+### Забанен Shaman
+
+## Игры:
+
+1. Tempo Warrior(ThijsNL) > N'zoth Paladin(Turna)
+2. Miracle Rogue(ThijsNL) > Zoo Warlock(Turna)
+3. Zoo Warlock(Turna) > Aggro Shaman(ThijsNL)
+4. Mid Hunter(ThijsNL) > Tempo Warrior(Turna)
+5. Tempo Warrior(Turna) > Aggro Shaman(ThijsNL)
+6. Aggro Shaman(ThijsNL) > N'zoth Paladin(Turna)
 
 ## Итоговый счёт: 4:2 (ThijHS wins)
 
