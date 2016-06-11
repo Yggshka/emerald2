@@ -19,11 +19,9 @@ title: Europe Spring Championship
 
 ## 1. <a name="1">Turna vs ThijsNL</a>
 
-### Колоды ThijsNL
+### Колоды ThijsNL (<red>забанен Warlock</red>)
 
 ![thijs](img/thijs.png)
-
-### Забанен Warlock
 
 ### Колоды Turna
 
