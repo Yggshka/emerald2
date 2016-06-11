@@ -4,7 +4,7 @@ title: Europe Spring Championship
 
 Все матчи проходят в формате bo7.
 
-## Содержание:
+## Матчи:
 
 ### 1.<a href="#1">Turna vs ThijsHS</a>
 
