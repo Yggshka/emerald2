@@ -45,7 +45,7 @@ Turna проиграл 2 игры на своём нзот паладине пр
 3. Reno Warlock(Loyan) > Murloc Paladin(Georgec)
 4. Mid Shaman(Georgec) > N'zoth Paladin(Loyan)
 5. N'zoth Paladin(Loyan) > Murloc Paladin(Georgec)
-6. 
+6. Mid Hunter(Loyan) : Control Warrior(Georgec)
 
 ### Комментарий
 
