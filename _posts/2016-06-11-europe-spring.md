@@ -4,11 +4,14 @@ title: Europe Spring Championship
 
 Все матчи проходят в формате bo7.
 
-##Содержание:
+## Содержание:
 
 ### <a href="#1">1. Turna vs ThijsHS</a>
+
 ### <a href="#2">2. Loyan vs Georgec</a>
+
 ### <a href="#3">3. Casie vs AKAWonder</a>
+
 ### <a href="#4">4. Crane333 vs Iner</a>
 
 ---
