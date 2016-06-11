@@ -6,13 +6,13 @@ title: Europe Spring Championship
 
 ## Содержание:
 
-### <a href="#1">1. Turna vs ThijsHS</a>
+### 1.<a href="#1">Turna vs ThijsHS</a>
 
-### <a href="#2">2. Loyan vs Georgec</a>
+### 2.<a href="#2">Loyan vs Georgec</a>
 
-### <a href="#3">3. Casie vs AKAWonder</a>
+### 3.<a href="#3">Casie vs AKAWonder</a>
 
-### <a href="#4">4. Crane333 vs Iner</a>
+### 4.<a href="#4">Crane333 vs Iner</a>
 
 ---
 
