@@ -60,7 +60,7 @@ Turna проиграл 2 игры на своём нзот паладине пр
 
 ---
 
-## 2. Casie vs AKAWonder
+## 3. Casie vs AKAWonder
 
 ### Колоды Casie 
 
