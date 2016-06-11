@@ -24,7 +24,7 @@ Turna проиграл 2 игры на своём нзот паладине пр
 
 ---
 
-## 2. Loyan vs Georgec (2-2)
+## 2. Loyan vs Georgec (3-2)
 
 ### Колоды Georgec
 
@@ -40,7 +40,8 @@ Turna проиграл 2 игры на своём нзот паладине пр
 2. Freeze Mage(Georgec) > N'zoth Paladin(Loyan)
 3. Reno Warlock(Loyan) > Murloc Paladin(Georgec)
 4. Mid Shaman(Georgec) > N'zoth Paladin(Loyan)
-5. N'zoth Paladin(Loyan) : Murloc Paladin(Georgec)
+5. N'zoth Paladin(Loyan) > Murloc Paladin(Georgec)
+6. 
 
 ### Комментарий
 
@@ -49,4 +50,4 @@ Turna проиграл 2 игры на своём нзот паладине пр
 2. В этом моменте Georgec решил, что убить тауррисана наверняка- очень важно, поэтому потратил коин и пиромансера. 
 ![rag](http://puu.sh/pp3lO/cd9aebd5f4.jpg)
 
-3. Паладины пока проиграли все игры, ни в 1 даже близко не пахло победой.
+3. В мирроре паладинов N'zoth версия от Loyana оказалась сильнее.
