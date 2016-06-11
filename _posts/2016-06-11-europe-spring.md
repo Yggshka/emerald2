@@ -66,7 +66,7 @@ Turna проиграл 2 игры на своём нзот паладине пр
 
 ![Casie](img/Casie.png)
 
-### Забанен Warlock
+### Забанен Shaman
 
 ### Колоды AKAWonder
 
@@ -77,8 +77,9 @@ Turna проиграл 2 игры на своём нзот паладине пр
 ## Игры:
 
 1. Mid Hunter(AKAWonder) > Control Warrior(Casie)
-2. Miracle Rogue (Casie) > MidShaman(AKAWonder)
-3. 
+2. Miracle Rogue(Casie) > Mid Shaman(AKAWonder)
+3. Control Warrior(Casie) > Mid Shaman(AKAWonder) 
+4. Mid Shaman(AKAWonder) : Mid Hunter(Casie)
 
 ### Комментарии
 
