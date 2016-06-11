@@ -76,8 +76,10 @@ Turna проиграл 2 игры на своём нзот паладине пр
 
 ## Игры:
 
-1. Mid Hunter(AKAWonder) : Control Warrior(Casie)
+1. Mid Hunter(AKAWonder) > Control Warrior(Casie)
 2. 
 
 ### Комментарии
 
+1. Несмотря на отсутствие **Savannah Highmane** в мид хантере у AKAWonder, у него всё равно получилось выиграть у контроль вара.
+2. 
