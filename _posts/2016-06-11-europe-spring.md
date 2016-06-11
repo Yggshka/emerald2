@@ -16,7 +16,7 @@ title: Europe Spring Championship
 
 ![turna](img/Turn.png)
 
-## Итоговый счёт: 4:2 (ThijHS win)
+## Итоговый счёт: 4:2 (ThijHS wins)
 
 ### Комментарий
 
@@ -45,7 +45,9 @@ Turna проиграл 2 игры на своём нзот паладине пр
 3. Reno Warlock(Loyan) > Murloc Paladin(Georgec)
 4. Mid Shaman(Georgec) > N'zoth Paladin(Loyan)
 5. N'zoth Paladin(Loyan) > Murloc Paladin(Georgec)
-6. Mid Hunter(Loyan) : Control Warrior(Georgec)
+6. Mid Hunter(Loyan) > Control Warrior(Georgec)
+
+## Итоговый счёт: 4:2 (Loyan wins)
 
 ### Комментарий
 
