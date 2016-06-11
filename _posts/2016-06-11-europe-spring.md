@@ -77,7 +77,8 @@ Turna проиграл 2 игры на своём нзот паладине пр
 ## Игры:
 
 1. Mid Hunter(AKAWonder) > Control Warrior(Casie)
-2. Miracle Rogue (Casie) : MidShaman(AKAWonder)
+2. Miracle Rogue (Casie) > MidShaman(AKAWonder)
+3. 
 
 ### Комментарии
 
