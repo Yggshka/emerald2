@@ -24,7 +24,7 @@ Turna проиграл 2 игры на своём нзот паладине пр
 
 ---
 
-## 2. Loyan vs Georgec (2-1)
+## 2. Loyan vs Georgec (2-2)
 
 ### Колоды Georgec
 
