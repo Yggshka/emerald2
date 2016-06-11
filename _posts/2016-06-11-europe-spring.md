@@ -6,11 +6,11 @@ title: Europe Spring Championship
 
 ### Колоды ThijHS
 
-![thijs](http://hs-manacost.ru/wp-content/uploads/2016/06/thijs.png "thijs")
+![thijs](http://hs-manacost.ru/wp-content/uploads/2016/06/thijs.png)
 
 ### Колоды Turna
 
-![turna](http://hs-manacost.ru/wp-content/uploads/2016/06/Turn.png "turna")
+![turna](http://hs-manacost.ru/wp-content/uploads/2016/06/Turn.png)
 
 Итоговый счёт: 4:2 (ThijHS win)
 
