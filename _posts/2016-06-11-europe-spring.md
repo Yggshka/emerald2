@@ -6,14 +6,14 @@ title: Europe Spring Championship
 
 ##Содержание:
 
-### <a name="1">1. Turna vs ThijsHS</a>
-### 2. Loyan vs Georgec
-### 3. Casie vs AKAWonder
-### 4. Crane333 vs Iner
+### <a href="#1">1. Turna vs ThijsHS</a>
+### <a href="#2">2. Loyan vs Georgec</a>
+### <a href="#3">3. Casie vs AKAWonder</a>
+### <a href="#4">4. Crane333 vs Iner</a>
 
 ---
 
-## 1. Turna vs ThijsHS
+## 1. <a name="1">Turna vs ThijsHS</a>
 
 ### Колоды ThijHS
 
@@ -31,7 +31,7 @@ Turna проиграл 2 игры на своём нзот паладине пр
 
 ---
 
-## 2. Loyan vs Georgec
+## 2. <a name="2">Loyan vs Georgec</a>
 
 ### Колоды Georgec
 
@@ -67,7 +67,7 @@ Turna проиграл 2 игры на своём нзот паладине пр
 
 ---
 
-## 3. Casie vs AKAWonder
+## 3. <a name="3">Casie vs AKAWonder</a>
 
 ### Колоды Casie 
 
@@ -100,7 +100,7 @@ Turna проиграл 2 игры на своём нзот паладине пр
 
 ---
 
-## 4. <a href="#1">Crane333 vs Iner</a>
+## 4. <a name="4">Crane333 vs Iner</a>
 
 ### Колоды Crane333 
 
