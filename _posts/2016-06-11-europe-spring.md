@@ -19,15 +19,13 @@ title: Europe Spring Championship
 
 ## 1. <a name="1">Turna vs ThijsNL</a>
 
-### Колоды ThijsNL (<red>забанен Warlock</red>)
+### Колоды ThijsNL (<red>Warlock banned</red>)
 
 ![thijs](img/thijs.png)
 
-### Колоды Turna
+### Колоды Turna (<red>Shaman banned</red>)
 
 ![turna](img/Turn.png)
-
-### Забанен Shaman
 
 ## Игры:
 
@@ -48,17 +46,14 @@ Turna проиграл 2 игры на своём нзот паладине пр
 
 ## 2. <a name="2">Loyan vs Georgec</a>
 
-### Колоды Georgec
+### Колоды Georgec (<red>Warlock banned</red>)
 
 ![georgec](img/Georgec.png)
 
-### Забанен Warlock
 
-### Колоды Loyan
+### Колоды Loyan (<red>Warrior banned</red>)
 
 ![loyan](img/loyan.png)
-
-### Забанен Warrior
 
 ## Игры:
 
@@ -84,17 +79,13 @@ Turna проиграл 2 игры на своём нзот паладине пр
 
 ## 3. <a name="3">Casie vs AKAWonder</a>
 
-### Колоды Casie 
+### Колоды Casie (<red>Shaman banned</red>)
 
 ![Casie](img/Casie.png)
 
-### Забанен Shaman
-
-### Колоды AKAWonder
+### Колоды AKAWonder (<red>Warrior banned</red>)
 
 ![AKAWonder](img/AKAWonder.png)
-
-### Забанен Warrior
 
 ## Игры:
 
@@ -117,17 +108,13 @@ Turna проиграл 2 игры на своём нзот паладине пр
 
 ## 4. <a name="4">Crane333 vs Iner</a>
 
-### Колоды Crane333 
+### Колоды Crane333 (<red>Warrior banned</red>)
 
 ![Crane333](img/Crane333.png)
 
-### Забанен Warrior
-
-### Колоды Iner
+### Колоды Iner (<red>Warrior banned</red>)
 
 ![Iner](img/Iner.png)
-
-### Забанен Warrior
 
 ## Игры:
 1. Aggro Shaman(Iner) > Freeze Mage(Crane333) 
