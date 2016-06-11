@@ -34,9 +34,18 @@ Turna проиграл 2 игры на своём нзот паладине пр
 
 ![loyan](img/loyan.png)
 
+## Игры:
+
+1. Mid Shaman(Loyan) > Murloc Paladin(Georgec)
+2. Freeze Mage(Georgec) > N'zoth Paladin(Loyan)
+3. Reno Warlock(Loyan) > Murloc Paladin(Georgec)
+4. Mid Shaman(Georgec) > N'zoth Paladin(Loyan)
+
 ### Комментарий
 
 1. Georgec получилось победить фризмагом нзот паладина из-за неудачного захода соперника, Loyan дровнул только 1 **forbidden healing** и ни одного из рагнаросов.
 
 2. В этом моменте Georgec решил, что убить тауррисана наверняка- очень важно, поэтому потратил коин и пиромансера. 
 ![rag](http://puu.sh/pp3lO/cd9aebd5f4.jpg)
+
+3. Паладины пока проиграли все игры, ни в 1 даже близко не пахло победой.
