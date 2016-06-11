@@ -111,7 +111,8 @@ Turna проиграл 2 игры на своём нзот паладине пр
 1. Aggro Shaman(Iner) > Freeze Mage(Crane333) 
 2. Freeze Mage(Crane333) > Zoo Warlock(Iner)
 3. Mid Hunter(Crane333) > Freeze Mage(Iner) 
-4. Aggro Shaman(Crane333) : Freeze Mage(Iner) 
+4. Freeze Mage(Iner) > Aggro Shaman(Crane333)  
+5. Miracle Rogue(Iner) : Aggro Shaman(Crane333) 
 
 
 ### Комментарии
@@ -119,3 +120,5 @@ Turna проиграл 2 игры на своём нзот паладине пр
 1. Матчапы игроков очень похожи, оба забанили варов, т.к. играют фризмагами и зоолоками. Правда, в этом случае у Iner есть преимущество, т.к. Crane333 играет хантера, который лучше всего себя показывает как раз против варов.
 2. Crane333 выбирает **Armor Up!** вместо **Lesser Heal**, ошибка или мемас? 
 ![lul](http://puu.sh/ppcHN/c870f71b46.jpg)
+3. В зеркальных матчапах фризмага и аггрошамана 2 победы одержал Iner.
+4. 
