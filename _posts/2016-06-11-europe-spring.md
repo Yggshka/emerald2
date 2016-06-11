@@ -2,6 +2,7 @@
 title: Europe Spring Championship
 ---
 
+Победителю чемпионата достанется титул чемпиона, награда в размере 25 000 $ и место на играх Hearthstone World Championship 2016.
 Все матчи проходят в формате bo7.
 
 ## Матчи:
