@@ -24,7 +24,7 @@ Turna проиграл 2 игры на своём нзот паладине пр
 
 ---
 
-## 2. Loyan vs Georgec (3-2)
+## 2. Loyan vs Georgec
 
 ### Колоды Georgec
 
@@ -57,3 +57,6 @@ Turna проиграл 2 игры на своём нзот паладине пр
 ![rag](http://puu.sh/pp3lO/cd9aebd5f4.jpg)
 
 3. В мирроре паладинов N'zoth версия от Loyana оказалась сильнее.
+
+---
+
