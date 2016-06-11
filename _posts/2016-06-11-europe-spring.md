@@ -60,3 +60,23 @@ Turna проиграл 2 игры на своём нзот паладине пр
 
 ---
 
+## 2. Casie vs AKAWonder
+
+### Колоды Casie 
+
+![Casie](img/Casie.png)
+
+### Забанен Warlock
+
+### Колоды AKAWonder
+
+![AKAWonder](img/AKAWonder.png)
+
+### Забанен Warrior
+
+## Игры:
+
+1. Mid Hunter(AKAWonder) : Control Warrior(Casie)
+2. 
+
+### Комментарий
