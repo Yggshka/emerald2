@@ -80,7 +80,7 @@ Turna проиграл 2 игры на своём нзот паладине пр
 2. Miracle Rogue(Casie) > Mid Shaman(AKAWonder)
 3. Control Warrior(Casie) > Mid Shaman(AKAWonder) 
 4. Mid Shaman(AKAWonder) > Mid Hunter(Casie)
-5. C'thun Warlock(AKAWonder) : Mid Hunter(Casie)
+5. Mid Hunter(Casie) > C'thun Warlock(AKAWonder) 
 
 ### Комментарии
 
