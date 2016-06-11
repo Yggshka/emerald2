@@ -4,6 +4,13 @@ title: Europe Spring Championship
 
 Все матчи проходят в формате bo7.
 
+##Содержание:
+
+### <a name="1">1. Turna vs ThijsHS</a>
+### 2. Loyan vs Georgec
+### 3. Casie vs AKAWonder
+### 4. Crane333 vs Iner
+
 ---
 
 ## 1. Turna vs ThijsHS
@@ -93,7 +100,7 @@ Turna проиграл 2 игры на своём нзот паладине пр
 
 ---
 
-## 4. Crane333 vs Iner
+## 4. <a href="#1">Crane333 vs Iner</a>
 
 ### Колоды Crane333 
 
