@@ -110,8 +110,9 @@ Turna проиграл 2 игры на своём нзот паладине пр
 ## Игры:
 1. Aggro Shaman(Iner) > Freeze Mage(Crane333) 
 2. Freeze Mage(Crane333) > Zoo Warlock(Iner)
-3. Freeze Mage(Iner) : Mid Hunter(Crane333) 
-4. 
+3. Mid Hunter(Crane333) > Freeze Mage(Iner) 
+4. Aggro Shaman(Crane333) : Freeze Mage(Iner) 
+
 
 ### Комментарии
 
