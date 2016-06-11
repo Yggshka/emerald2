@@ -81,9 +81,10 @@ Turna проиграл 2 игры на своём нзот паладине пр
 3. Control Warrior(Casie) > Mid Shaman(AKAWonder) 
 4. Mid Shaman(AKAWonder) > Mid Hunter(Casie)
 5. Mid Hunter(Casie) > C'thun Warlock(AKAWonder) 
+6. Reno Warlock(Casie) : C'thun Warlock(AKAWonder) 
 
 ### Комментарии
 
 1. Несмотря на отсутствие **Savannah Highmane** в мид хантере у AKAWonder, у него всё равно получилось выиграть у контроль вара.
 2. AKAWonder проиграл на мидшамане в 2 хороших матчапах против роги и вара. 
-3. 
+3. AKAWonder не был в курсе, что combo и battlecry- [разные вещи](https://clips.twitch.tv/playhearthstone/CharmingGooseKreygasm)
