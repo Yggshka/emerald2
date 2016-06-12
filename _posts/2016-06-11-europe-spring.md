@@ -149,20 +149,23 @@ Turna проиграл 2 игры на своём нзот паладине пр
 
 ## 1. <a name="5">ThijsNL vs Loyan</a>
 
-### Колоды ThijsNL (<red> banned</red>)
+### Колоды ThijsNL (<red>Warrior banned</red>)
 
 ![thijs](img/thijs.png)
 
-### Колоды Loyan (<red> banned</red>)
+### Колоды Loyan (<red>Shaman banned</red>)
 
 ![loyan](img/loyan.png)
 
 ## Игры:
-1. 
+1. Mid Hunter(Loyan) : Aggro Shaman(ThijsNL)
 
 ## Итоговый счёт: 
 
 ### Комментарии
+
+1.
+
 
 ---
 
