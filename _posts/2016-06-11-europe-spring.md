@@ -186,7 +186,7 @@ Turna проиграл 2 игры на своём нзот паладине пр
 ![Iner](img/Iner.png)
 
 ## Игры:
-1. 
+1. Aggro Warlock(Iner) : Reno Warlock(Casie)
 
 ## Итоговый счёт: 
 
