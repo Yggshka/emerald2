@@ -2,7 +2,6 @@
 layout: default
 ---
 <article id="post-page">
-	{% include nav-breadcrumbs.html %}
 	<h2>{{ page.title }}</h2>		
 	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
 	<div class="content">
