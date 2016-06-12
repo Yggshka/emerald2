@@ -175,7 +175,7 @@ Turna проиграл 2 игры на своём нзот паладине пр
 
 ---
 
-## 1. <a name="6">Casie vs Iner</a>
+## 2. <a name="6">Casie vs Iner</a>
 
 ### Колоды Casie (<red>Warrior banned</red>)
 
@@ -187,7 +187,8 @@ Turna проиграл 2 игры на своём нзот паладине пр
 
 ## Игры:
 1. Aggro Warlock(Iner) > Reno Warlock(Casie)
-2. Aggro Shaman(Casie) : Freeze Mage(Iner)
+2. Aggro Shaman(Casie) > Freeze Mage(Iner)
+3. 
 
 ## Итоговый счёт: 
 
