@@ -1,3 +1,6 @@
+//Import
+@import "base", "mixin", "typography", "layout", "syntax.scss", "custom.scss";
+
 /* from Twitter Bootstrap */
 
 .breadcrumb {
