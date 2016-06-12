@@ -219,7 +219,8 @@ Turna проиграл 2 игры на своём нзот паладине пр
 1. Reno Warlock(ThijsNL) > Aggro Warlock(Iner) 
 2. Aggro Warlock(Iner) > Aggro Shaman(ThijsNL)
 3. Tempo Warrior(Iner) > Mid Hunter(ThijsNL) 
-4. Aggro Shaman(ThijsNL) : Freeze Mage(Iner)
+4. Aggro Shaman(ThijsNL) > Freeze Mage(Iner)
+5. Miracle Rogue(Iner) : Mid Hunter(ThijsNL)
 
 ## Итоговый счёт: 
 
