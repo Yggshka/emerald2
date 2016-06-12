@@ -161,14 +161,16 @@ Turna проиграл 2 игры на своём нзот паладине пр
 1. Aggro Shaman(ThijsNL) >  Mid Hunter(Loyan) 
 2. Tempo Warrior(ThijsNL) > Mid Hunter(Loyan) 
 3. Reno Warlock(ThijsNL) > Mid Hunter(Loyan) 
-4. Mid Hunter(ThijsNL) : Mid Hunter(Loyan) 
+4. Mid Hunter(Loyan) > Mid Hunter(ThijsNL) 
+5. Mid Hunter(ThijsNL) : N'zoth Paladin(Loyan)
 
-## Итоговый счёт: 
+## Итоговый счёт: 4:1 (ThijsNL wins)
 
 ### Комментарии
 
 1. ThijsNL прошлую серию начинал с темпо вара, Loyan хотел его подловить на этом, взяв хантера на 1 матч, но не повезло- проиграл плохой матчап с шаманом.
 2. Loyan выглядит расстроенным после 2 поражений на мидрендж хантере. Даже со львами в деке и **Call of the Wild** на 8 ход у него не получилось победить темпо вара. FeelsBadMan
+3. В последней игре Loyan совершил 2 ошибки, вторая оказалась критической. Тильт делает свои дела.
 
 
 ---
