@@ -207,17 +207,17 @@ Turna проиграл 2 игры на своём нзот паладине пр
 
 ## 3. <a name="7">ThijsNL vs Iner</a>
 
-### Колоды ThijsNL (<red> banned</red>)
+### Колоды ThijsNL (<red>Warrior banned</red>)
 
 ![thijs](img/thijs.png)
 
-### Колоды Iner (<red> banned</red>)
+### Колоды Iner (<red>Shaman banned</red>)
 
 ![Iner](img/Iner.png)
 
 ## Игры:
-1. Aggro Warlock(Iner) > Reno Warlock(ThijsNL)
-2. 
+1. Reno Warlock(ThijsNL) > Aggro Warlock(Iner) 
+2. Aggro Warlock(Iner) : Aggro Shaman(ThijsNL)
 
 ## Итоговый счёт: 
 
