@@ -149,22 +149,24 @@ Turna проиграл 2 игры на своём нзот паладине пр
 
 ## 1. <a name="5">ThijsNL vs Loyan</a>
 
-### Колоды ThijsNL (<red>Warrior banned</red>)
+### Колоды ThijsNL (<red>Shaman banned</red>)
 
 ![thijs](img/thijs.png)
 
-### Колоды Loyan (<red>Shaman banned</red>)
+### Колоды Loyan (<red>Warrior banned</red>)
 
 ![loyan](img/loyan.png)
 
 ## Игры:
-1. Mid Hunter(Loyan) : Aggro Shaman(ThijsNL)
+1. Aggro Shaman(ThijsNL) >  Mid Hunter(Loyan) 
+2. 
 
 ## Итоговый счёт: 
 
 ### Комментарии
 
-1.
+1. ThijsNL прошлую серию начинал с темпо вара, Loyan хотел его подловить на этом, взяв хантера на 1 матч, но не повезло- проиграл плохой матчап с шаманом.
+2. 
 
 
 ---
