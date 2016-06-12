@@ -23,7 +23,7 @@ title: Europe Spring Championship
 
 ## Гранд финал:
 
-### 3.<a href="#6">ThijsNL vs Iner</a>
+### 3.<a href="#7">ThijsNL vs Iner</a>
 
 ---
 
