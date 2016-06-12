@@ -189,13 +189,15 @@ Turna проиграл 2 игры на своём нзот паладине пр
 1. Aggro Warlock(Iner) > Reno Warlock(Casie)
 2. Aggro Shaman(Casie) > Freeze Mage(Iner)
 3. Freeze Mage(Iner) > Mid Hunter(Casie)
-4. Miracle Rogue(Iner) : Miracle Rogue(Casie)
+4. Miracle Rogue(Iner) > Miracle Rogue(Casie)
+5. Tempo Warrior(Iner) : Reno Warlock(Casie)
 
 ## Итоговый счёт: 
 
 ### Комментарии
 
 1. Игры идут с очень высокой скоростью, но без ошибок. Первые 3 игры прошли, как должны были, фавориты в матчапах одерживали победы.
+2. 
 
 ---
 
