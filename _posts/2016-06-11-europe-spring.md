@@ -21,6 +21,10 @@ title: Europe Spring Championship
 
 ### 2.<a href="#6">Casie vs Iner</a>
 
+## Гранд финал:
+
+### 3.<a href="#6">ThijsNL vs Iner</a>
+
 ---
 
 ## 1. <a name="1">Turna vs ThijsNL</a>
@@ -190,14 +194,35 @@ Turna проиграл 2 игры на своём нзот паладине пр
 2. Aggro Shaman(Casie) > Freeze Mage(Iner)
 3. Freeze Mage(Iner) > Mid Hunter(Casie)
 4. Miracle Rogue(Iner) > Miracle Rogue(Casie)
-5. Tempo Warrior(Iner) : Reno Warlock(Casie)
+5. Tempo Warrior(Iner) > Reno Warlock(Casie)
+
+## Итоговый счёт: 4:1 (Iner wins)
+
+### Комментарии
+
+1. Игры идут с очень высокой скоростью, но без ошибок. Первые 3 игры прошли, как должны были, фавориты в матчапах одерживали победы.
+2. Рено варлок попался на 2 худших матчапа и проиграл 2 игры. Аггро деки на этом турнире показывают себя намного лучше, чем попытки контроля.
+
+---
+
+## 3. <a name="7">ThijsNL vs Iner</a>
+
+### Колоды ThijsNL (<red> banned</red>)
+
+![thijs](img/thijs.png)
+
+### Колоды Iner (<red> banned</red>)
+
+![Iner](img/Iner.png)
+
+## Игры:
+1. Aggro Warlock(Iner) > Reno Warlock(Casie)
+2. 
 
 ## Итоговый счёт: 
 
 ### Комментарии
 
-1. Игры идут с очень высокой скоростью, но без ошибок. Первые 3 игры прошли, как должны были, фавориты в матчапах одерживали победы.
-2. 
+1.
 
 ---
-
