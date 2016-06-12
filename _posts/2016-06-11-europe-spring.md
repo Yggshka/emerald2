@@ -220,15 +220,19 @@ Turna проиграл 2 игры на своём нзот паладине пр
 2. Aggro Warlock(Iner) > Aggro Shaman(ThijsNL)
 3. Tempo Warrior(Iner) > Mid Hunter(ThijsNL) 
 4. Aggro Shaman(ThijsNL) > Freeze Mage(Iner)
-5. Miracle Rogue(Iner) : Mid Hunter(ThijsNL)
+5. Mid Hunter(ThijsNL) > Miracle Rogue(Iner) 
+6. Freeze Mage(Iner) > Miracle Rogue(ThijsNL) 
+7. Miracle Rogue(ThijsNL) > Miracle Rogue(Iner)  
 
 ## Итоговый счёт: 
+
+## Итоговый счёт: 4:3 (ThijsNL wins)
 
 ### Комментарии
 
 1. Все комментаторы ставят на победу ThijsNL, но лайнап у Iner выглядит сильнее, поэтому мой фаворит- именно он. 
 2. ThijsNL первый раз проиграл на своём аггро шамане. Такое бывает, когда встречаешь зоолока haHAA.
 3. Второе подряд поражение мидхантера от темповара на турнире. Совпадение? Не думаю. 
-4. 
+4. Игру решил миррор миракл рог, ThijsNL закончил игру на 6 ход. haHAA
 
 ---
