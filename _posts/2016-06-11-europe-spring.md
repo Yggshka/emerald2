@@ -5,7 +5,7 @@ title: Europe Spring Championship
 Победителю чемпионата достанется титул чемпиона, награда в размере 25 000 $ и место на играх Hearthstone World Championship 2016.
 Все матчи проходят в формате bo7.
 
-## Матчи:
+## Матчи 1 дня:
 
 ### 1.<a href="#1">Turna vs ThijsNL</a>
 
@@ -14,6 +14,12 @@ title: Europe Spring Championship
 ### 3.<a href="#3">Casie vs AKAWonder</a>
 
 ### 4.<a href="#4">Crane333 vs Iner</a>
+
+## Матчи 2 дня:
+
+### 1.<a href="#5">ThijsNL vs Loyan</a>
+
+### 2.<a href="#6">Casie vs Iner</a>
 
 ---
 
@@ -134,6 +140,48 @@ Turna проиграл 2 игры на своём нзот паладине пр
 ![lul](http://puu.sh/ppcHN/c870f71b46.jpg)
 3. В зеркальных матчапах фризмага и аггрошамана обе победы одержал Iner.
 4. Миррор зоолоков пока- самая "раковая" игра на турнире, оба игрока совершали ошибки. Iner выглядит очень взволнованным.
+
+---
+
+## 2 день
+
+---
+
+## 1. <a name="5">ThijsNL vs Loyan</a>
+
+### Колоды ThijsNL (<red> banned</red>)
+
+![thijs](img/thijs.png)
+
+### Колоды Loyan (<red> banned</red>)
+
+![loyan](img/loyan.png)
+
+## Игры:
+1. 
+
+## Итоговый счёт: 
+
+### Комментарии
+
+---
+
+## 1. <a name="6">Casie vs Iner</a>
+
+### Колоды Casie (<red> banned</red>)
+
+![Casie](img/Casie.png)
+
+### Колоды Iner (<red> banned</red>)
+
+![Iner](img/Iner.png)
+
+## Игры:
+1. 
+
+## Итоговый счёт: 
+
+### Комментарии
 
 ---
 
