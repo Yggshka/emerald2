@@ -177,11 +177,11 @@ Turna проиграл 2 игры на своём нзот паладине пр
 
 ## 1. <a name="6">Casie vs Iner</a>
 
-### Колоды Casie (<red> banned</red>)
+### Колоды Casie (<red>Warrior banned</red>)
 
 ![Casie](img/Casie.png)
 
-### Колоды Iner (<red> banned</red>)
+### Колоды Iner (<red>Shaman banned</red>)
 
 ![Iner](img/Iner.png)
 
