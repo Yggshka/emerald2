@@ -44,7 +44,7 @@ title: Kor'kron Elite в контроль варе
 
 ## Плюсы:
 
-1. Эффективно трейдится со следующими метовыми картами:
+Эффективно трейдится со следующими метовыми картами:
 
 ![Doom](http://media-hearth.cursecdn.com/avatars/149/508/467.png)
 
@@ -60,9 +60,9 @@ title: Kor'kron Elite в контроль варе
 
 ![Leokk](http://media-hearth.cursecdn.com/avatars/149/545/32.png)
 
-2. Позволяет играть агрессивно, когда этого требует ситуация. ![smorc](https://static-cdn.jtvnw.net/emoticons/v1/52/1.0)
+1. Позволяет играть агрессивно, когда этого требует ситуация. ![smorc](https://static-cdn.jtvnw.net/emoticons/v1/52/1.0)
 
-3. Разминирование **Freezing Trap** хантера- теперь не такая проблема для кв.
+2. Разминирование **Freezing Trap** хантера- теперь не такая проблема для кв.
 
 ## Минусы:
 
@@ -78,7 +78,9 @@ title: Kor'kron Elite в контроль варе
 
 ![stat](http://puu.sh/px9Pj/a1612fcc41.png)
 
+## Вариация кв от сенсора
 
+![lul](http://puu.sh/puUd9/32bfe17a03.jpg)
 
 
 
