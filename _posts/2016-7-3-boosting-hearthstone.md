@@ -1,1 +1,5 @@
-<title> Буст аккаунтов hearthstone </title>
+---
+title: Буст аккаунтов hearthstone 
+---
+
+##Буст Hearthstone
