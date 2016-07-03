@@ -15,14 +15,15 @@ border-collapse: collapse;
 text-align: center;
 }
 th, td:first-child {
-background: #AFCDE7;
+background: #008a3c;
 color: white;
 padding: 10px 20px;
 }
 th, td {
 border-style: solid;
-border-width: 0 1px 1px 0;
-border-color: white;
+    border-width: 0 1px 1px 0;
+    border-color: white;
+    color: white;
 }
 td {
 background: #D8E6F3;
@@ -116,14 +117,15 @@ border-collapse: collapse;
 text-align: center;
 }
 th, td:first-child {
-background: #AFCDE7;
+background: #008a3c;
 color: white;
 padding: 10px 20px;
 }
 th, td {
 border-style: solid;
-border-width: 0 1px 1px 0;
-border-color: white;
+    border-width: 0 1px 1px 0;
+    border-color: white;
+    color: white;
 }
 td {
 background: #D8E6F3;
