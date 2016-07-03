@@ -9,6 +9,9 @@ body {
 }
 
 /*- Typography for medium and small screen, based on 16px font-size -*/
+table {
+	border: 1px solid black;
+}
 
 p, ul, ol {
 	font-size: 1em; /* 16px */
@@ -88,6 +91,9 @@ blockquote {
 	p, ul, ol {
 		padding: 1.33334em 0; /* 24px/18px */
 	}
+}
+table {
+	border: 1px solid black;
 }
 
 }
